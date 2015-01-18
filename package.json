@@ -1,0 +1,28 @@
+{
+  "name": "is-mobile-browser",
+  "version": "0.0.1",
+  "description": "detect is user-agent represents a mobile browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapwinglabs/is-mobile-browser.git"
+  },
+  "keywords": [
+    "mobile",
+    "browser",
+    "detection",
+    "user-agent"
+  ],
+  "author": "Andy Pai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lapwinglabs/is-mobile-browser/issues"
+  },
+  "homepage": "https://github.com/lapwinglabs/is-mobile-browser",
+  "dependencies": {
+    "mocha": "^2.1.0"
+  }
+}
